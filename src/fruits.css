@@ -1,0 +1,7 @@
+.Fruits {
+  width: 300px;
+  margin: 16px auto;
+  border: 1px solid black;
+  box-shadow: 2px 2px black;
+  text-align: center;
+}
